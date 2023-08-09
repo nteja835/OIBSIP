@@ -1,0 +1,14 @@
+
+main {
+    text-align: center;
+    padding: 50px;
+}
+
+input, button {
+    padding: 10px;
+    margin: 10px;
+}
+
+#result {
+    font-weight: bold;
+}
